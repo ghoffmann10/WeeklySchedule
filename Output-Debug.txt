@@ -1,0 +1,19 @@
+﻿'WeeklySchedule.exe' (Win32): Loaded 'C:\Users\HOFFMANN10\Documents\C++\GIT\WeeklySchedule\WeeklySchedule\Debug\WeeklySchedule.exe'. Symbols loaded.
+'WeeklySchedule.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'WeeklySchedule.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'WeeklySchedule.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'WeeklySchedule.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'WeeklySchedule.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'WeeklySchedule.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x2ca0 has exited with code 0 (0x0).
+'WeeklySchedule.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'WeeklySchedule.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'WeeklySchedule.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'WeeklySchedule.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. 
+'WeeklySchedule.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'WeeklySchedule.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'WeeklySchedule.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+The thread 0x528 has exited with code 0 (0x0).
+The thread 0x2c0c has exited with code 0 (0x0).
+The thread 0x25fc has exited with code 0 (0x0).
+The program '[12284] WeeklySchedule.exe' has exited with code 0 (0x0).
