@@ -1,6 +1,7 @@
 /*
 Grace Hoffmann
-C ++ Fall 2019
+C++ Fall 2019
+Due: Semptember 12, 2019
 Lab: 2A
 A program that prints your weekly schedule
 */
